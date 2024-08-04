@@ -6,12 +6,12 @@
 ! Last modified: 2024)
 !
 !
-||is.fi
-||iltasanomat.fi
-||mvlehti.net
-||mv-lehti.com
-||deitti.net
-||suomi24.fi
-||treffit.suomi24.fi
-||hymy.fi
-||seiska.fi
+is.fi
+iltasanomat.fi
+mvlehti.net
+mv-lehti.com
+deitti.net
+suomi24.fi
+treffit.suomi24.fi
+hymy.fi
+seiska.fi
