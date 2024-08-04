@@ -1,0 +1,17 @@
+[Adblock Plus 2.8.2]
+! Title: Blokkilista
+! Expires: 6 hours
+! Version: 1
+!
+! Last modified: 2024)
+!
+!
+||is.fi
+||iltasanomat.fi
+||mvlehti.net
+||mv-lehti.com
+||deitti.net
+||suomi24.fi
+||treffit.suomi24.fi
+||hymy.fi
+||seiska.fi
